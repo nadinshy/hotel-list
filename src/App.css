@@ -1,0 +1,47 @@
+.container {
+
+  display: flex;
+
+  justify-content: center;
+
+  background-color: #c6e9d4;
+
+}
+
+.dress {
+
+  margin: 10px;
+
+}
+
+
+.btn {
+
+  display: flex;
+
+ justify-content: space-evenly;
+
+ background-color: rgb(104, 126, 126);
+
+ border-radius: 10px;
+
+ text-transform: none;
+
+}
+
+
+
+button {
+
+  background-color: #7f545c;
+
+  color: #fff;
+
+  padding: 10px;
+
+  border: 4px solid;
+  border-radius: 15px;
+
+  text-transform: uppercase;
+
+}
